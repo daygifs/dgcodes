@@ -1,13 +1,3 @@
-var dms_color1='#A46550';
-var dms_color2='#ffedf3';
-var dms_color3='#ffedf3';
-var dms_color4='#A46550';
-var dms_text_embed='Day Gifs';
-var dms_text_popup='Prontinho, pode começar... ^.^';
-var dms_width=115;
-var dms_height=172;
-//--></script>
-<script type="text/javascript">
 setTimeout('showInit()', 15000);
 
 
